@@ -11,11 +11,7 @@ I'm Hilary (she/her/hers), an aspiring full stack developer currently working wi
 - [My portfolio page](https://hilbug.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/hferraro/)
 
-:crown: When I'm not working or coding, I am most likely doing one of these things:
-- checking out the latest Royal news, mostly on IG
-- maxing out my phone storage with pictures (see above)
-- reading historical fiction
-- the list goes on...
+:crown: When I'm not working or coding, I am most likely doing one of these things: checking out the latest Royal news, reading historical fiction, or catching a travel show.
 
 <!--
 **hilbug/hilbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
