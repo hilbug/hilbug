@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hilary (she/her/hers), an aspiring full stack developer currently working within the healthcare technology sector as a technical program manager. I would love to connect with other coding newbies and collaborate on a project!
+I'm Hilary (she/her/hers), an aspiring full stack developer in the Greater Boston area currently working within the healthcare technology sector as a technical program manager. I would love to connect with other coding newbies and collaborate on a project!
 
 :point_right: My personal tenets:
 - Unconditional positive regard
@@ -10,6 +10,7 @@ I'm Hilary (she/her/hers), an aspiring full stack developer currently working wi
 📫 You can find me at: 
 - [My portfolio page](https://hilbug.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/hferraro/)
+- [E-mail](hil.ferraro@gmail.com)
 
 :crown: When I'm not working or coding, I am most likely doing one of these things: checking out the latest Royal news, reading historical fiction, or catching a travel show.
 
