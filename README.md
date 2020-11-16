@@ -8,7 +8,7 @@ I'm Hilary (she/her/hers), an aspiring full stack developer in the Greater Bosto
 - Communicate, Clarify, Care
 
 📫 You can find me at: 
-- [My portfolio page](https://hilbug.github.io/)
+- [My portfolio page](https://hilary-ferraro.herokuapp.com/)
 - [LinkedIn](https://www.linkedin.com/in/hferraro/)
 - [E-mail](hil.ferraro@gmail.com)
 
