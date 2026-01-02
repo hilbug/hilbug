@@ -9,11 +9,11 @@ I'm Hilary (she/her/hers), an aspiring full stack developer in the Greater Bosto
 
 :crown: When I'm not working or coding, I am most likely doing one of these things: checking out the latest Royal news, reading historical fiction, or catching a travel show.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilbug&show_icons=true&count_private=true&theme=dark" alt="hilbug" /></p>
-
 <img width="100" alt="HacktoberFest2020" src="https://github.com/hilbug/hilbug/blob/master/hacktoberfest2020-badge.png">
 
 <!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilbug&show_icons=true&count_private=true&theme=dark" alt="hilbug" /></p>
+
 **hilbug/hilbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
