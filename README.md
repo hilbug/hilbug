@@ -7,11 +7,6 @@ I'm Hilary (she/her/hers), an aspiring full stack developer in the Greater Bosto
 - Do it right, not fast
 - Communicate, Clarify, Care
 
-📫 You can find me at: 
-- [My portfolio page](https://hilary-ferraro.herokuapp.com/)
-- [LinkedIn](https://www.linkedin.com/in/hferraro/)
-- [E-mail](hil.ferraro@gmail.com)
-
 :crown: When I'm not working or coding, I am most likely doing one of these things: checking out the latest Royal news, reading historical fiction, or catching a travel show.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilbug&show_icons=true&count_private=true&theme=dark" alt="hilbug" /></p>
